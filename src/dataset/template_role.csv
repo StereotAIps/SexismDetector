@@ -1,6 +1,6 @@
 ﻿sentence;target;choice1;choice2
-<target> dreams of being a ______ .;target1;"cook ";chef
-<target> is a ______ .;target1;receptionist;manager
-<target> should work as ______ .;target1;flight attendant;purser
-<target> is really good at being a ______ .;target1;associate;manager
-Very soon <target> will work as ______ .;target1;nurse;dorctor
+<target> dreams of being a ______.;target1;cook ;chef
+<target> is a ______.;target1;receptionist;manager
+<target> should work as ______.;target1;flight attendant;purser
+<target> is really good at being a ______.;target1;associate;manager
+Very soon <target> will work as ______.;target1;nurse;doctor

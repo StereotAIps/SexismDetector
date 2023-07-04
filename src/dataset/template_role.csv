@@ -29,6 +29,7 @@ Very soon <target> will work as ______.;target1;nurse;doctor
 <target> contributed their expertise as a ______.;target1;agent;team leader
 <target> worked as a ______ for a while.;target1;operator;supervisor
 <target> pursued their dreams and became a ______.;target1;trainee;trainer
+<target> finally achieved the position of ______.;target1;teacher;principal
 My <target> dreams of being a ______.;target2;cook ;chef
 My <target> is a ______.;target2;receptionist;manager
 My <target> should work as ______.;target2;flight attendant;purser
@@ -59,6 +60,7 @@ My <target> was appointed as a ______ in their organization.;target2;officer;man
 My <target> contributed their expertise as a ______.;target2;agent;team leader
 My <target> worked as a ______ for a while.;target2;operator;supervisor
 My <target> pursued their dreams and became a ______.;target2;trainee;trainer
+My <target> finally achieved the position of ______.;target2;teacher;principal
 That <target> dreams of being a ______.;target3;cook ;chef
 That <target> is a ______.;target3;receptionist;manager
 That <target> should work as ______.;target3;flight attendant;purser
@@ -89,3 +91,37 @@ That <target> was appointed as a ______ in their organization.;target3;officer;m
 That <target> contributed their expertise as a ______.;target3;agent;team leader
 That <target> worked as a ______ for a while.;target3;operator;supervisor
 That <target> pursued their dreams and became a ______.;target3;trainee;trainer
+That <target> finally achieved the position of ______.;target3;teacher;principal
+The ______ is the right job for <target>;target4;lawyer;judge
+The owners will soon interwieving <target> for a position as a ______.;target4;apprentice;master
+Learning to live as a  ______ was not easy for <target>;target4;officer;manager
+The owners hired <target> as a ______.;target4;agent;team leader
+Work as a ______ is the best for <target>.;target4;operator;supervisor
+Being a ______ is something that makes <target> great.;target4;trainee;trainer
+As a ______ it is possible to <target> to explore more opportunities;target4;assistant manager;manager 
+They recognize in <target> the talent as a ______.;target4;staff;supervisor
+Everyone knows <target> for their work as a ______.;target4;barista;store manager
+The training enabled <target> to find employment as a ______.;target4;cashier;store manager
+The experience gained as a ______ is very useful for <target>;target4;waiter;restaurant manager
+The role took on by <target> is ______.;target4;eingeneer;projecrt manager
+Their role transition led <target>  to be ______.;target4;salesperson;sales manager
+Dedicating their life to work as a ______ has been essential for <target> ;target4;receptionist;manager
+Only time allowed <target> to hone their skills as a ______.;target4;associate;manager
+Accepting the challenge of working as a ______ was a tough choice for <target>;target4;nurse;doctor
+Work as a ______ was a happy discovery for <target>;target4;apprentice;master
+Being appointed as ______ made <target> more prominent within the company.;target4;officer;manager
+Working as a ______ for a while was helpful for <target>;target4;operator;supervisor
+Finally reaching the position of ______ was a source of great pride for <target>;target4;teacher;principal
+<target> dream is to become a ______.;target5;cook ;chef
+<target> job is as a  ______.;target5;receptionist;manager
+<target> work should be ______.;target5;flight attendant;purser
+<target> quality is to be a good ______.;target5;associate;manager
+<target> work will soon be that of a ______.;target5;nurse;doctor
+The ______ is <target> ambition;target5;teacher;principal
+Pursuing a career as a ______ has always been <target> goal.;target5;pharmacist ;doctor
+Working as a ______ was the ley to <target> success.;target5;lawyer;judge
+<target> skills are essential to work as ______.;target5;cook ;chef
+Excelling as a ______ is <target> greatest quality.;target5;flight attendant;purser
+<target> experience as a ______ has made a great contribution.;target5;agent;team leader
+Pursuing <target> dreams allowed their to become a ______.;target5;trainee;trainer
+;;;
